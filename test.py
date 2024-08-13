@@ -9,6 +9,6 @@ numb3 = int(input("Enter the 3rd number"))
 print(func_average(numb1,numb2,numb3))
 
 
-
+print("Success")
 
 
